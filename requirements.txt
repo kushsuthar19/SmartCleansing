@@ -1,0 +1,7 @@
+fastapi
+pydantic
+dotenv
+langchain-core
+langchain-groq
+langgraph
+polars

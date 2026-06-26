@@ -1,0 +1,30 @@
+{"product_id": "ATL", "product_name": "Hartsfield-Jackson Atlanta International", "supplier_country": "US"}
+{"product_id": "PEK", "product_name": "Beijing Capital International", "supplier_country": "CN"}
+{"product_id": "DXB", "product_name": "Dubai International", "supplier_country": "AE"}
+{"product_id": "LAX", "product_name": "Los Angeles International", "supplier_country": "US"}
+{"product_id": "HND", "product_name": "Tokyo Haneda", "supplier_country": "JP"}
+{"product_id": "ORD", "product_name": "O'Hare International", "supplier_country": "US"}
+{"product_id": "LHR", "product_name": "London Heathrow", "supplier_country": "GB"}
+{"product_id": "PVG", "product_name": "Shanghai Pudong International", "supplier_country": "CN"}
+{"product_id": "CDG", "product_name": "Paris Charles De Gaulle", "supplier_country": "FR"}
+{"product_id": "DFW", "product_name": "Dallas/Fort Worth International", "supplier_country": "US"}
+{"product_id": "CAN", "product_name": "Guangzhou Baiyun International", "supplier_country": "CN"}
+{"product_id": "AMS", "product_name": "Amsterdam Schiphol", "supplier_country": "NL"}
+{"product_id": "FRA", "product_name": "Frankfurt Airport", "supplier_country": "DE"}
+{"product_id": "IST", "product_name": "Istanbul Airport", "supplier_country": "TR"}
+{"product_id": "SIN", "product_name": "Singapore Changi", "supplier_country": "SG"}
+{"product_id": "ICN", "product_name": "Incheon International", "supplier_country": "KR"}
+{"product_id": "DEN", "product_name": "Denver International", "supplier_country": "US"}
+{"product_id": "BKK", "product_name": "Suvarnabhumi Airport", "supplier_country": "TH"}
+{"product_id": "JFK", "product_name": "John F. Kennedy International", "supplier_country": "US"}
+{"product_id": "HKG", "product_name": "Hong Kong International", "supplier_country": "HK"}
+{"product_id": "KUL", "product_name": "Kuala Lumpur International", "supplier_country": "MY"}
+{"product_id": "MAD", "product_name": "Adolfo Suárez Madrid–Barajas", "supplier_country": "ES"}
+{"product_id": "SFO", "product_name": "San Francisco International", "supplier_country": "US"}
+{"product_id": "MIA", "product_name": "Miami International", "supplier_country": "US"}
+{"product_id": "SYD", "product_name": "Sydney Kingsford Smith", "supplier_country": "AU"}
+{"product_id": "MUC", "product_name": "Munich Airport", "supplier_country": "DE"}
+{"product_id": "BCN", "product_name": "Barcelona–El Prat", "supplier_country": "ES"}
+{"product_id": "YYZ", "product_name": "Toronto Pearson International", "supplier_country": "CA"}
+{"product_id": "MEX", "product_name": "Mexico City International", "supplier_country": "MX"}
+{"product_id": "NRT", "product_name": "Narita International", "supplier_country": "JP"}
