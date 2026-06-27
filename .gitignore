@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+venv/
+.env
+*.jsonl
+__pycache__/
+*.pyc
+Then:
+
 # Distribution / packaging
 .Python
 build/
@@ -217,3 +224,4 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 venv/ 
+.env 
